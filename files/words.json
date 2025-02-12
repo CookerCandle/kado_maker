@@ -1,0 +1,432 @@
+[
+    {
+        "dars": 11,
+        "so'zlar": [
+          {
+            "kana": "終わる",
+            "jp": "おわる",
+            "uzb": "Tugamoq"
+          },
+          {
+            "kana": "飲み終わる",
+            "jp": "のみおわる",
+            "uzb": "Ichishni to’xtatish"
+          },
+          {
+            "kana": "終わり",
+            "jp": "おわり",
+            "uzb": "Tugash"
+          },
+          {
+            "kana": "終える",
+            "jp": "おえる",
+            "uzb": "Tugamoq"
+          },
+          {
+            "kana": "終点",
+            "jp": "しゅうてん",
+            "uzb": "Oxirgi bekat"
+          },
+          {
+            "kana": "終電",
+            "jp": "しゅうでん",
+            "uzb": "Kunning oxirgi poezdi"
+          },
+          {
+            "kana": "紙",
+            "jp": "かみ",
+            "uzb": "Qog’oz"
+          },
+          {
+            "kana": "手紙",
+            "jp": "てがみ",
+            "uzb": "Xat"
+          },
+          {
+            "kana": "用紙",
+            "jp": "ようし",
+            "uzb": "Varaqa"
+          },
+          {
+            "kana": "表紙",
+            "jp": "ひょうし",
+            "uzb": "Kitob g’ilofi"
+          },
+          {
+            "kana": "低い",
+            "jp": "ひくい",
+            "uzb": "Past"
+          },
+          {
+            "kana": "低温",
+            "jp": "ていおん",
+            "uzb": "Past harorat"
+          },
+          {
+            "kana": "最低気温",
+            "jp": "さいていきおん",
+            "uzb": "Eng past harorat"
+          },
+          {
+            "kana": "低下する",
+            "jp": "ていかする",
+            "uzb": "Bekor qilmoq"
+          },
+          {
+            "kana": "肉",
+            "jp": "にく",
+            "uzb": "Go’sht"
+          },
+          {
+            "kana": "牛肉",
+            "jp": "ぎゅうにく",
+            "uzb": "Mol go’sht"
+          },
+          {
+            "kana": "豚肉",
+            "jp": "ぶたにく",
+            "uzb": "Cho’chqa go’shti"
+          },
+          {
+            "kana": "鳥肉",
+            "jp": "とりにく",
+            "uzb": "Tovuq"
+          },
+          {
+            "kana": "鳥",
+            "jp": "とり",
+            "uzb": "Qush"
+          },
+          {
+            "kana": "焼き鳥",
+            "jp": "やきとり",
+            "uzb": "Yakitori taomi"
+          },
+          {
+            "kana": "白鳥",
+            "jp": "はくちょう",
+            "uzb": "Oqqush"
+          },
+          {
+            "kana": "犬",
+            "jp": "いぬ",
+            "uzb": "It"
+          },
+          {
+            "kana": "西洋",
+            "jp": "せいよう",
+            "uzb": "G’arb"
+          },
+          {
+            "kana": "東洋",
+            "jp": "とうよう",
+            "uzb": "Sharq"
+          },
+          {
+            "kana": "洋食",
+            "jp": "ようしょく",
+            "uzb": "G’arb taomi"
+          },
+          {
+            "kana": "洋式トイレ",
+            "jp": "ようしきトイレ",
+            "uzb": "G’arb uslubidagi hojatxona"
+          },
+          {
+            "kana": "太平洋",
+            "jp": "たいへいよう",
+            "uzb": "Tinch Okeani"
+          },
+          {
+            "kana": "和食",
+            "jp": "わしょく",
+            "uzb": "Yapon uslubidagi taom"
+          },
+          {
+            "kana": "和式トイレ",
+            "jp": "わしきトイレ",
+            "uzb": "Yapon uslubidagi hojatxona"
+          },
+          {
+            "kana": "和風",
+            "jp": "わふう",
+            "uzb": "Yaponcha uslub"
+          },
+          {
+            "kana": "英和辞典",
+            "jp": "えいわじてん",
+            "uzb": "Yaponcha inglizcha lug’at"
+          },
+          {
+            "kana": "平和",
+            "jp": "へいわ",
+            "uzb": "Tinchlik"
+          },
+          {
+            "kana": "服",
+            "jp": "ふく",
+            "uzb": "Kiyim"
+          },
+          {
+            "kana": "洋服",
+            "jp": "ようふく",
+            "uzb": "G’arb uslubidagi kiyimlar"
+          },
+          {
+            "kana": "和服",
+            "jp": "わふく",
+            "uzb": "Yapon uslubidagi kiyimlar"
+          },
+          {
+            "kana": "服装",
+            "jp": "ふくそう",
+            "uzb": "Kiyinish"
+          },
+          {
+            "kana": "服用する",
+            "jp": "ふくようする",
+            "uzb": "Dori qabul qilmoq"
+          },
+          {
+            "kana": "開会式",
+            "jp": "かいかいしき",
+            "uzb": "Tadbirni ochib berish"
+          },
+          {
+            "kana": "閉会式",
+            "jp": "へいかいしき",
+            "uzb": "Yopilish marosimi"
+          },
+          {
+            "kana": "形式的",
+            "jp": "けいしきてき",
+            "uzb": "Rasmiy"
+          },
+          {
+            "kana": "結婚式",
+            "jp": "けっこんしき",
+            "uzb": "To’y marosimi"
+          },
+          {
+            "kana": "公式な",
+            "jp": "こうしきな",
+            "uzb": "Rasmiy"
+          },
+          {
+            "kana": "試す",
+            "jp": "ためす",
+            "uzb": "Harakat qilmoq"
+          },
+          {
+            "kana": "試験",
+            "jp": "しけん",
+            "uzb": "Imtihon"
+          },
+          {
+            "kana": "試合",
+            "jp": "しあい",
+            "uzb": "Musobaqa"
+          },
+          {
+            "kana": "入試",
+            "jp": "にゅうし",
+            "uzb": "Kirish imtihoni"
+          },
+          {
+            "kana": "試着する",
+            "jp": "しちゃくする",
+            "uzb": "Kiyib ko’rmoq"
+          },
+          {
+            "kana": "経験する",
+            "jp": "けいけんする",
+            "uzb": "Tajriba qilib ko’rmoq"
+          },
+          {
+            "kana": "受験する",
+            "jp": "じゅけんする",
+            "uzb": "Imtihon topshirmoq"
+          },
+          {
+            "kana": "実験する",
+            "jp": "じっけんする",
+            "uzb": "Tajriba qilmoq"
+          },
+          {
+            "kana": "近い",
+            "jp": "ちかい",
+            "uzb": "Yaqin"
+          },
+          {
+            "kana": "近く",
+            "jp": "ちかく",
+            "uzb": "Yaqin(ravish)"
+          },
+          {
+            "kana": "近道",
+            "jp": "ちかみち",
+            "uzb": "Qisqa yo’l"
+          },
+          {
+            "kana": "近所",
+            "jp": "きんじょ",
+            "uzb": "Manzil"
+          },
+          {
+            "kana": "最近",
+            "jp": "さいきん",
+            "uzb": "Shu kunlarda"
+          },
+          {
+            "kana": "遠い",
+            "jp": "とおい",
+            "uzb": "Uzoq"
+          },
+          {
+            "kana": "遠く",
+            "jp": "とおく",
+            "uzb": "Uzoq joy"
+          },
+          {
+            "kana": "遠回りする",
+            "jp": "とまわりする",
+            "uzb": "Aylanma yo’lni bosib o’tmoq"
+          },
+          {
+            "kana": "遠慮する",
+            "jp": "えんりょする",
+            "uzb": "Dan tiyilmoq"
+          },
+          {
+            "kana": "遠足",
+            "jp": "えんそく",
+            "uzb": "Ekskursiya"
+          },
+          {
+            "kana": "送る",
+            "jp": "おくる",
+            "uzb": "Jo’natmoq"
+          },
+          {
+            "kana": "見送る",
+            "jp": "みおくる",
+            "uzb": "Kuzatib qo’yish"
+          },
+          {
+            "kana": "送別会",
+            "jp": "そうべつかい",
+            "uzb": "Xayrlashuv kechasi"
+          },
+          {
+            "kana": "送料",
+            "jp": "そうりょう",
+            "uzb": "Pochta"
+          },
+          {
+            "kana": "回送",
+            "jp": "かいそう",
+            "uzb": "Poezd/avtobus qatnovda emas"
+          },
+          {
+            "kana": "回る",
+            "jp": "まわる",
+            "uzb": "Aylanmoq"
+          },
+          {
+            "kana": "回す",
+            "jp": "まわす",
+            "uzb": "Aylantirmoq"
+          },
+          {
+            "kana": "三回",
+            "jp": "さんかい",
+            "uzb": "Uch marta"
+          },
+          {
+            "kana": "回数券",
+            "jp": "かいすうけん",
+            "uzb": "Bir necha marta ishlatilinadigan chipta"
+          },
+          {
+            "kana": "用",
+            "jp": "よう",
+            "uzb": "Bizness"
+          },
+          {
+            "kana": "急用",
+            "jp": "きゅうよう",
+            "uzb": "Shoshilinch ish"
+          },
+          {
+            "kana": "一人用",
+            "jp": "ひとりよう",
+            "uzb": "Bitta odam uchun"
+          },
+          {
+            "kana": "要件",
+            "jp": "ようけん",
+            "uzb": "Bizness"
+          },
+          {
+            "kana": "用意する",
+            "jp": "よういする",
+            "uzb": "Hozirlamoq"
+          },
+          {
+            "kana": "通う",
+            "jp": "かよう",
+            "uzb": "Qatnamoq"
+          },
+          {
+            "kana": "通り",
+            "jp": "とおり",
+            "uzb": "Ko’cha"
+          },
+          {
+            "kana": "通る",
+            "jp": "とおる",
+            "uzb": "Kesib o’tmoq"
+          },
+          {
+            "kana": "交通",
+            "jp": "こうつう",
+            "uzb": "Qatnov"
+          },
+          {
+            "kana": "普通の",
+            "jp": "ふつうの",
+            "uzb": "Odatdagi"
+          },
+          {
+            "kana": "通行止め",
+            "jp": "つうこうどめ",
+            "uzb": "Qatnov qismi yopilishi"
+          },
+          {
+            "kana": "不便な",
+            "jp": "ふべんな",
+            "uzb": "Noqulaylik"
+          },
+          {
+            "kana": "不安な",
+            "jp": "ふあんな",
+            "uzb": "Havotir, tashvish"
+          },
+          {
+            "kana": "不親切な",
+            "jp": "ふしんせつな",
+            "uzb": "Mehrsiz"
+          },
+          {
+            "kana": "不可能な",
+            "jp": "ふかのうな",
+            "uzb": "Imkonsiz"
+          },
+          {
+            "kana": "普通",
+            "jp": "ふつう",
+            "uzb": "Xizmatdan tashqarida (avtobus/poezd)"
+          }
+        ]
+    }
+]
