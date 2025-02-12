@@ -33,8 +33,16 @@ pip install requirement.txt
   {
     "dars": 11,
     "so'zlar": [
-      {"kana": "食べる", "jp": "たべる", "uzb": "Есть, кушать"},
-      {"kana": "飲む", "jp": "のむ", "uzb": "Пить"}
+          {
+            "kana": "終わる",
+            "jp": "おわる",
+            "uzb": "Tugamoq"
+          },
+          {
+            "kana": "飲み終わる",
+            "jp": "のみおわる",
+            "uzb": "Ichishni to’xtatish"
+          }
     ]
   }
 ]
